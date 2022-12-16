@@ -1,0 +1,29 @@
+body {
+    background-color: #89c3fc;
+    color:darkblue;
+}
+
+
+#tennis {
+    width: 400px;
+}
+
+#Roger {
+    width: 500px;
+    position: absolute;
+    top:130px;
+    left: 900px;
+}
+
+#fedal {
+    width: 400px;
+    position: absolute;
+    top:130px;
+    left: 450px;
+}
+
+li {
+    font-style: italic;
+    color: azure;
+}
+
